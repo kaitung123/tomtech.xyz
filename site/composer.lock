@@ -370,7 +370,7 @@
                 "wordpress",
                 "wp-sync-db"
             ],
-            "time": "2016-04-24 08:56:12"
+            "time": "2016-04-24T08:56:12+00:00"
         },
         {
             "name": "wp-sync-db/wp-sync-db-media-files",
