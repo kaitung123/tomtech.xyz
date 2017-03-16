@@ -7,6 +7,8 @@ web/app/uploads/*
 !web/app/uploads/.gitkeep
 !web/app/themes/*
 !web/app/plugins/*
+web/app/plugins/wp-sync-db
+web/app/plugins/wp-sync-db-media-files
 
 # WordPress
 web/wp
