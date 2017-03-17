@@ -9,8 +9,8 @@ web/app/uploads/*
 
 #include wpm plugins
 web/app/plugins/*
-!web/app/plugins/wpml-media-translations
-!web/app/plugins/wpml-string-translations
+!web/app/plugins/wpml-media-translation
+!web/app/plugins/wpml-string-translation
 !web/app/plugins/wpml-translation-management
 !web/app/plugins/sitepress-multilingual-cms
 
