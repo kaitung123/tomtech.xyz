@@ -40,7 +40,17 @@
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wp-sync-db/wp-sync-db": "dev-master@dev",
-    "wp-sync-db/wp-sync-db-media-files": "dev-master"
+    "wp-sync-db/wp-sync-db-media-files": "dev-master",
+    "wpackagist-plugin/woocommerce":"@stable",
+    "wpackagist-plugin/woocommerce-multilingual":"@stable",
+    "wpackagist-plugin/woosidebars":"@stable",
+    "wpackagist-plugin/nextend-google-connect":"@stable",
+    "wpackagist-plugin/nextend-facebook-connect":"@stable",
+    "wpackagist-plugin/contact-form-7":"@stable",
+    "wpackagist-plugin/yith-woocommerce-wishlist":"@stable",
+    "wpackagist-plugin/p3-profiler":"@stable",
+    "wpackagist-plugin/favicon-by-realfavicongenerator": "@stable",
+    
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"

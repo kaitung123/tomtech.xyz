@@ -6,9 +6,17 @@ web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 !web/app/themes/*
-!web/app/plugins/*
-web/app/plugins/wp-sync-db
-web/app/plugins/wp-sync-db-media-files
+
+#include wpm plugins
+web/app/plugins/*
+!web/app/plugins/wpml-media-translations
+!web/app/plugins/wpml-string-translations
+!web/app/plugins/wpml-translation-management
+!web/app/plugins/sitepress-multilingual-cms
+
+.DS_Store
+
+
 
 # WordPress
 web/wp
