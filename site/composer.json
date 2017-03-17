@@ -49,7 +49,7 @@
     "wpackagist-plugin/contact-form-7":"@stable",
     "wpackagist-plugin/yith-woocommerce-wishlist":"@stable",
     "wpackagist-plugin/p3-profiler":"@stable",
-    "wpackagist-plugin/favicon-by-realfavicongenerator": "@stable",
+    "wpackagist-plugin/favicon-by-realfavicongenerator": "@stable"
     
   },
   "require-dev": {
