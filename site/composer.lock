@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f83a6ab7fe997ab4f82085cb7f786774",
+    "content-hash": "dd4ac7a26260359f8878546e2b2c462b",
     "packages": [
         {
             "name": "composer/installers",
@@ -565,6 +565,26 @@
             "homepage": "https://wordpress.org/plugins/woosidebars/"
         },
         {
+            "name": "wpackagist-plugin/wp-all-import",
+            "version": "3.4.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-all-import/",
+                "reference": "tags/3.4.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-all-import.3.4.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-all-import/"
+        },
+        {
             "name": "wpackagist-plugin/yith-woocommerce-wishlist",
             "version": "2.0.16",
             "source": {
@@ -678,7 +698,8 @@
         "wpackagist-plugin/contact-form-7": 0,
         "wpackagist-plugin/yith-woocommerce-wishlist": 0,
         "wpackagist-plugin/p3-profiler": 0,
-        "wpackagist-plugin/favicon-by-realfavicongenerator": 0
+        "wpackagist-plugin/favicon-by-realfavicongenerator": 0,
+        "wpackagist-plugin/wp-all-import": 0
     },
     "prefer-stable": false,
     "prefer-lowest": false,

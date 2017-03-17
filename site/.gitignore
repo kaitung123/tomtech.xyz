@@ -7,16 +7,19 @@ web/app/uploads/*
 !web/app/uploads/.gitkeep
 !web/app/themes/*
 
-#include wpm plugins
+#include wpml plugins
 web/app/plugins/*
 !web/app/plugins/wpml-media-translation
 !web/app/plugins/wpml-string-translation
 !web/app/plugins/wpml-translation-management
 !web/app/plugins/sitepress-multilingual-cms
 
+#include wpai plugins
+!web/app/plugins/wp-all-import-pro
+!web/app/plugins/wpai-woocommerce-add-on
+
+# MAC
 .DS_Store
-
-
 
 # WordPress
 web/wp
